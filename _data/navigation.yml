@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Oku Beni"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "MeraK Web"
+    url: https://murateray.com/
+  - title: "MeraKlı Gezgin"
+    url: https://gezg.in/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
