@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Murat Eray KORKMAZ"
-  avatar           : "/assets/images/mekprofile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/mekprofile.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Engineering Person"
   location         : "Samsun, Turkey"
   email            : "meraklab@murateray.com"
