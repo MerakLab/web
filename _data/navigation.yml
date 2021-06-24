@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Oku Beni"
+  - title: "Bilim"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "MeraK Web"
+  - title: "Hobi"
     url: https://murateray.com/
-  - title: "MeraKlı Gezgin"
+  - title: "Kitap"
     url: https://gezg.in/
   # - title: "Sample Collections"
   #   url: /collection-archive/
